@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hola, sí es que alguien ve esto, Soy Ronaldinho, si, me llamo Ronaldinho :soccer:</h1></summary>
+    <summary><h1 style="display: inline-block">Hola, si es que alguien ve esto, Soy Ronaldinho, sí, me llamo Ronaldinho :soccer:</h1></summary>
   </ul>
 </div>
 
@@ -17,10 +17,10 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: Soy `estudiante y trainee` en [Los Libertadores](https://www.ulibertadores.edu.co/) en su sede en Cartagena de Indias
-- :trophy: `8vo semestre` en `Ingenieria de sistemas y computación`
-- :technologist: **Me especializo** `Desarrollador Backer` **y** `Ciencias de datos`, también tiro frontend, no hay problema con eso
-- :boom: Pronto podrás entra a mi portafolio: [COMING SOOON]()
-- :email: Puedes contactarme por correo a: [b99ronal@gmail.com](mailto:b99ronal@gmail.com) o por por WhatsApp: [Chatea conmmigo](https://wa.me/573246537538)
+- :trophy: `8vo semestre` en `Ingeniería de Sistemas y Computación`
+- :technologist: **Me especializo** `Desarrollador Backend` **y** `Ciencias de datos`, también hago frontend, no hay problema con eso
+- :boom: Pronto podrás entrar a mi portafolio: [COMING SOOON]()
+- :email: Puedes contactarme por correo a: [b99ronal@gmail.com](mailto:b99ronal@gmail.com) o por WhatsApp: [Chatea conmmigo](https://wa.me/573246537538)
 - :nerd_face:`"La mayor alegría de la magia reside en buscarla."`
 
 <br>
